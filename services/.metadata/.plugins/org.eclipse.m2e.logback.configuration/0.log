@@ -735,3 +735,9 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-08-15 19:44:12,430 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-08-15 19:44:12,438 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-15 19:44:12,438 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Microservices\configserver\src\test\resources
+2020-08-15 20:40:53,885 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-08-15 20:41:45,001 [Worker-11: Launching configserver - ConfigserverApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 20:41:45,017 [Worker-11: Launching configserver - ConfigserverApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-15 20:41:45,046 [Worker-11: Launching configserver - ConfigserverApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-15 20:41:45,051 [Worker-11: Launching configserver - ConfigserverApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 20:41:45,051 [Worker-11: Launching configserver - ConfigserverApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\microservices\LibraryMicroservicesExample\services\configserver\src\test\resources

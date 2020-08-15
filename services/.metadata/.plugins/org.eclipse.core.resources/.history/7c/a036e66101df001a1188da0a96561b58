@@ -1,0 +1,10 @@
+spring.application.name=configServer
+server.port=8001
+
+# URI of GIT repo containing properties
+spring.cloud.config.server.git.uri=https://github.com/CodeInvent/LibraryMicroservicesExample
+
+# path to properties from root of repo 
+spring.cloud.config.server.git.searchPaths: configurations
+
+logging.level.org.springframework.web=INFO

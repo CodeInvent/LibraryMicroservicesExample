@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bb35654-ff73-43e9-a2b3-9946d4071b2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/configserver/.markers.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/configserver/.markers.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/configserver/.syncinfo.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/configserver/.syncinfo.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/0.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/0.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_0_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_3.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_4.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/e835f5c2f0caa912a0cff48b1322196d/_2s.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/e835f5c2f0caa912a0cff48b1322196d/_2s_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/e835f5c2f0caa912a0cff48b1322196d/_2t.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/e835f5c2f0caa912a0cff48b1322196d/_2u.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/e835f5c2f0caa912a0cff48b1322196d/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/e835f5c2f0caa912a0cff48b1322196d/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/e835f5c2f0caa912a0cff48b1322196d/segments_2m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.jdt/configserver.container" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.jdt/configserver.container" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/bootstrap/css/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/bootstrap/js/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/blog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/buttons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/docs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/flexbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/fontcustom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/highlight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/homepage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/markdown-content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/panes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/projects.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/tools.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/css/typography.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/font-custom/fontcustom.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/blog_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/bug_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/comparison_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/compass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/compass_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/extension.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/extension_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/forum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/forum_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/guides.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/guides_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/logo_bigleaf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/logo_spring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/logo_sts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/new_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/overlay-incoming.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/question.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/spring-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/springdocs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/img/springdocs_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/js/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/js/filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/js/guide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/common/js/modernizer.flexbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1597504263816/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/GatewayApplication/target/" />
+    <ignored path="$PROJECT_DIR$/ServiceRegistry/target/" />
+    <ignored path="$PROJECT_DIR$/SubscriptionService/target/classes/META-INF/maven/com.library.subscription/SubscriptionService/target/" />
+    <ignored path="$PROJECT_DIR$/configserver/target/" />
+    <ignored path="$PROJECT_DIR$/BookService/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="782" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookService" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598475752713" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bb35654-ff73-43e9-a2b3-9946d4071b2b" name="Default Changelist" comment="" />
+      <created>1598475409736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598475409736</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/BookService/target/classes/META-INF/maven/com.library.casestudy/BookService/pom.xml" />
+        <option value="$PROJECT_DIR$/BookService/target/classes/META-INF/maven/com.library.casestudy/BookService/pom.properties" />
+        <option value="$PROJECT_DIR$/BookService/pom.xml" />
+        <option value="$PROJECT_DIR$/configserver/target/classes/META-INF/maven/com.library.casestudy/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/configserver/target/classes/META-INF/maven/com.library.casestudy/configserver/pom.properties" />
+        <option value="$PROJECT_DIR$/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/ServiceRegistry/target/classes/META-INF/maven/com.library.registry/ServiceRegistry/pom.xml" />
+        <option value="$PROJECT_DIR$/ServiceRegistry/target/classes/META-INF/maven/com.library.registry/ServiceRegistry/pom.properties" />
+        <option value="$PROJECT_DIR$/ServiceRegistry/pom.xml" />
+        <option value="$PROJECT_DIR$/GatewayApplication/target/classes/META-INF/maven/com.library.gateway/GatewayApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/GatewayApplication/target/classes/META-INF/maven/com.library.gateway/GatewayApplication/pom.properties" />
+        <option value="$PROJECT_DIR$/GatewayApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/SubscriptionService/target/classes/META-INF/maven/com.library.subscription/SubscriptionService/pom.xml" />
+        <option value="$PROJECT_DIR$/SubscriptionService/target/classes/META-INF/maven/com.library.subscription/SubscriptionService/pom.properties" />
+        <option value="$PROJECT_DIR$/SubscriptionService/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

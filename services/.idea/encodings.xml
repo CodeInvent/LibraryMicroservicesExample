@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/BookService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BookService/target/classes/META-INF/maven/com.library.casestudy/BookService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BookService/target/classes/META-INF/maven/com.library.casestudy/BookService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GatewayApplication" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GatewayApplication/target/classes/META-INF/maven/com.library.gateway/GatewayApplication" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServiceRegistry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServiceRegistry/target/classes/META-INF/maven/com.library.registry/ServiceRegistry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SubscriptionService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SubscriptionService/target/classes/META-INF/maven/com.library.subscription/SubscriptionService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver/target/classes/META-INF/maven/com.library.casestudy/configserver" charset="UTF-8" />
+  </component>
+</project>
